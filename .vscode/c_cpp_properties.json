@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:\\DEV_TOOLS\\gcc\\include\\c++\\9.1.0",
+                "C:\\DEV_TOOLS\\gcc\\x86_64-w64-mingw32\\include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\DEV_TOOLS\\gcc\\bin\\gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/**",
+                    "C:\\DEV_TOOLS\\gcc\\include\\c++\\9.1.0",
+                    "C:\\DEV_TOOLS\\gcc\\x86_64-w64-mingw32\\include"
+                ]
+            }
+        }
+    ],
+    "version": 4
+}
